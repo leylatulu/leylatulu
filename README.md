@@ -4,12 +4,12 @@
 <h3 align="left">MSc Student, Electrics & Electronics Engineer(BSc)</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leylatulu&label=Profile%20views&color=0e75b6&style=flat" alt="leylatulu" /> </p><br>
+
 
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leylatulu&show_icons=true&locale=en&layout=compact" alt="leylatulu" /></p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leylatulu&label=Profile%20views&color=0e75b6&style=flat" alt="leylatulu" /> </p>
 - 🔭 I’m currently working on **Telecom Churn Analysis**
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -17,6 +17,10 @@
 - 💬 Ask me about **MATLAB,Python**
 
 <br>
+
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 
