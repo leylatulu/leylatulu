@@ -1,3 +1,5 @@
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leylatulu&show_icons=true&locale=en" alt="leylatulu" /></p>
+
 <h1 align="left">Hi 👋, I'm Leyla</h1>
 <h3 align="left">MSc Student, Electrics & Electronics Engineer(BSc)</h3>
 
@@ -5,15 +7,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leylatulu&label=Profile%20views&color=0e75b6&style=flat" alt="leylatulu" /> </p>
 
 
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leylatulu&show_icons=true&locale=en" alt="leylatulu" /></p>
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leylatulu&show_icons=true&locale=en&layout=compact" alt="leylatulu" /></p>
-
-
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leylatülü/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@98leylatulu)
+[![Mail Badge](https://img.shields.io/badge/98leylatulu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:98leylatulu@gmail.com)](mailto:98leylatulu@gmail.com)
 
 
 - 🔭 I’m currently working on **Telecom Churn Analysis**
@@ -25,6 +21,10 @@
 - 📫 How to reach me **98leylatulu@gmail.com**
 
 
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leylatulu&show_icons=true&locale=en&layout=compact" alt="leylatulu" /></p
 
 
 
