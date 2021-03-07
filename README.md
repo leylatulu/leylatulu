@@ -6,10 +6,11 @@
 
 
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leylatulu&label=Profile%20views&color=0e75b6&style=flat" alt="leylatulu" /> </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leylatulu&show_icons=true&locale=en&layout=compact" alt="leylatulu" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leylatulu&label=Profile%20views&color=0e75b6&style=flat" alt="leylatulu" /> </p>
+
+
 - 🔭 I’m currently working on **Telecom Churn Analysis**
 
 - 🌱 I’m currently learning **Machine Learning**
