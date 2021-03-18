@@ -1,7 +1,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leylatulu&show_icons=true&locale=en" alt="leylatulu" /></p>
 
 <h1 align="left">Hi 👋, I'm Leyla</h1>
-<h3 align="left">MSc Student, Electrics & Electronics Engineer(BSc)</h3>
+<h3 align="left">MSc Student, Electrical & Electronics Engineer</h3>
 
 
 
