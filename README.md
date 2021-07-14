@@ -11,11 +11,10 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leylatulu&show_icons=true&locale=en&layout=compact" alt="leylatulu" /></p>
 
 
-- 🔭 I’m currently working on **Telecom Churn Analysis**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Tensorflow, Keras**
 
-- 💬 Ask me about **MATLAB,Python**
+- 💬 Ask me about **MATLAB, Python, C++**
 
 <br>
 
