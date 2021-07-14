@@ -11,14 +11,15 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leylatulu&show_icons=true&locale=en&layout=compact" alt="leylatulu" /></p>
 
 
+<br>
+<br>
 
 - 🌱 I’m currently learning **Machine Learning, Tensorflow, Keras**
 
 - 💬 Ask me about **MATLAB, Python, C++**
 
 <br>
-
-
+<br>
 
 
 
@@ -27,6 +28,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leylatülü/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@98leylatulu)
 [![Mail Badge](https://img.shields.io/badge/98leylatulu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:98leylatulu@gmail.com)](mailto:98leylatulu@gmail.com)
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
