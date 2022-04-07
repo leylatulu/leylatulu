@@ -14,9 +14,9 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **Machine Learning, Tensorflow, Keras**
+- 🌱 I’m currently learning Real-world Data Science scenarios in Healthcare.
 
-- 💬 Ask me about **MATLAB, Python, C++**
+- 💬 Ask me **everything about DATA**.
 
 <br>
 <br>
