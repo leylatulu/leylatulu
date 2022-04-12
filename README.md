@@ -1,7 +1,7 @@
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leylatulu&show_icons=true&locale=en" alt="leylatulu" /></p>
 
-<h1 align="left">Hi 👋, I'm Leyla</h1>
-<h3 align="left">MSc Student, Electrical & Electronics Engineer</h3>
+
+<h1 align="center">Hi 👋, I'm Leyla</h1>
+<h3 align="center">MSc Student, Electrical & Electronics Engineer</h3>
 
 
 
@@ -12,9 +12,8 @@
 
 
 <br>
-<br>
 
-- 🌱 I’m currently learning Real-world Data Science scenarios in Healthcare.
+- 🌱 I’m currently working Real-world Data Science scenarios in Healthcare.
 
 - 💬 Ask me **everything about DATA**.
 
