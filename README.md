@@ -13,7 +13,7 @@
 
 <br>
 
-- 🌱 I’m currently working Real-world Data Science scenarios in Healthcare.
+- 🌱 I’m currently writing master's thesis about Real-World Data Science scenarios in Medicine.
 
 - 💬 Ask me **everything about DATA**.
 
