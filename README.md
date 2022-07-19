@@ -23,7 +23,7 @@
 - Machine Learning: TensorFlow, Scikit-learn, Scikit-Multilearn
 - Data Science: Pandas, Numpy
 
-<br>
+
 <h2 align="center">👽 GitHub Stats 👽</h2>
 <br>
 <p align="center">
@@ -40,7 +40,7 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800198-f2d28bc9-bd6b-465c-bd34-53f271eab436.png" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800518-6f412fad-5507-4e19-ba8b-0e2ae6625de8.png" alt="scikit_learn" width="40" height="40"/> </a></p>
 
-<br>
+
   
 <h2 align="center">💬 Connect with me:</h2>
 
