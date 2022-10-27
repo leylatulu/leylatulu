@@ -13,6 +13,7 @@
 </p>
 
 - 🔋 I am an Electrical Electronics Engineer.
+- 🚀 I'm learning CRM analytics and measurements problems.
 - ✍ I’m currently writing master's thesis about Real-World Data Science scenarios in Medicine.
 - 💬 Ask me **everything about DATA**.
 
