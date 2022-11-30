@@ -4,24 +4,22 @@
   </a>
 </h1>
 
-<h2 align="center">Data Science | Machine Learning</h2>
-<h3 align="center">MSc Student | Electrical & Electronics Engineer</h3>
+<h2 align="center">Jr. Data Scientist | Machine Learning</h2>
+<h3 align="center">MSc | BSc | Electrical & Electronics Engineer</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=leylatulu&label=Profile%20views&color=8000bf&style=flat" alt="leylatulu"> 
   <img src="https://img.shields.io/twitter/follow/leylatulu?style=social"> 
   <img src="https://img.shields.io/github/followers/leylatulu?style=social">
 </p>
 
-- 🔋 I am an Electrical Electronics Engineer.
-- 🚀 I'm learning CRM analytics and measurements problems.
-- ✍ I’m currently writing master's thesis about Real-World Data Science scenarios in Medicine.
-- 💬 Ask me **everything about DATA**.
+- 🔋 I am an Electrical Electronics Engineer. I have a master's degree in Electrical and Electronics Engineering.
+- ✍ I wrote a master's thesis on applying machine learning methods to internal medicine.
+- 🚀 I'm learning recommendation systems.
 
 <h2 align="center">🔓 Stack</h2>
 
-### 🐍  **Python Stack**
 - Visualization: Matplotlib, Seaborn
-- Machine Learning: TensorFlow, Scikit-learn, Scikit-Multilearn
+- Machine Learning: TensorFlow, Keras, Scikit-learn, Scikit-Multilearn
 - Data Science: Pandas, Numpy
 
 
@@ -33,7 +31,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylatulu&layout=compact&langs_count=16&theme=react"/></div></p>
 <div  align="center"> <img src="https://github.com/leylatulu/leylatulu/blob/output/github-contribution-grid-snake.svg" /></div></p>
 
-<h2 align="center">👩‍💻 IDEs & Code Editor:</h2>
+<h2 align="center">👩‍💻 Developer Tools</h2>
 
 <p align="center"> 
   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799645-5dbf1f03-2ab8-4899-a7cf-d1bfeb11080e.png" alt="matlab" width="40" height="40"/> </a> 
@@ -43,7 +41,7 @@
 
 
   
-<h2 align="center">💬 Connect with me:</h2>
+<h2 align="center">💬 Connect with me</h2>
 
 <p align="center">
 <a href="https://twitter.com/leylatulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
