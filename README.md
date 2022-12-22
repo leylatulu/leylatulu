@@ -14,7 +14,7 @@
 
 - 🔋 I am an Electrical Electronics Engineer. I have a master's degree in Electrical and Electronics Engineering.
 - ✍ I wrote a master's thesis on applying machine learning methods to internal medicine.
-- 🚀 I'm learning recommendation systems.
+- 🚀 I'm learning NLP.
 
 <h2 align="center">🔓 Stack</h2>
 
