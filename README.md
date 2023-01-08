@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/github/followers/leylatulu?style=social">
 </p>
 
+<p align="center">
+<img width="1024" alt="DATA" src="https://user-images.githubusercontent.com/53316818/211224979-d2f6b634-52e8-4dfc-9817-1a16732a257e.png">
+</p>
+
 - 🔋 I am an Electrical Electronics Engineer. I have a master's degree in Electrical and Electronics Engineering.
 - ✍ I wrote a master's thesis on applying machine learning methods to internal medicine.
 - 🚀 I'm learning NLP & Web Scraping.
@@ -23,6 +27,7 @@
 - Natural Language Processing: NLTK
 - Data Science: Pandas, Numpy
 - Development: Flask
+
 
 
 <h2 align="center">👽 GitHub Stats 👽</h2>
@@ -50,6 +55,4 @@
 <a href="https://medium.com/@98leylatulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  height="30" width="40" /></a>
 </p>
 
-<p align="center">
-<img width="1024" alt="DATA" src="https://user-images.githubusercontent.com/53316818/211224979-d2f6b634-52e8-4dfc-9817-1a16732a257e.png">
-</p>
+
