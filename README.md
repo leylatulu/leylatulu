@@ -20,7 +20,9 @@
 
 - Visualization: Matplotlib, Seaborn
 - Machine Learning: TensorFlow, Keras, Scikit-learn, Scikit-Multilearn
+- Natural Language Processing: NLTK
 - Data Science: Pandas, Numpy
+- Development: Flask
 
 
 <h2 align="center">👽 GitHub Stats 👽</h2>
