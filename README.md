@@ -41,7 +41,6 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800198-f2d28bc9-bd6b-465c-bd34-53f271eab436.png" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800518-6f412fad-5507-4e19-ba8b-0e2ae6625de8.png" alt="scikit_learn" width="40" height="40"/> </a></p>
 
-
   
 <h2 align="center">💬 Connect with me</h2>
 
@@ -49,4 +48,8 @@
 <a href="https://twitter.com/leylatulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/leylatulu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://medium.com/@98leylatulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  height="30" width="40" /></a>
+</p>
+
+<p align="center">
+<img width="1024" alt="DATA" src="https://user-images.githubusercontent.com/53316818/211224979-d2f6b634-52e8-4dfc-9817-1a16732a257e.png">
 </p>
