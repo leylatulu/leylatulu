@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h2 align="center">Jr. Data Scientist</h2>
+<h2 align="center">Data Scientist</h2>
 <h3 align="center">MSc | BSc | Electrical & Electronics Engineer</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=leylatulu&label=Profile%20views&color=8000bf&style=flat" alt="leylatulu"> 
