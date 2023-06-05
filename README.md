@@ -18,7 +18,11 @@
 
 - 🔋 I am an Electrical Electronics Engineer. I have a master's degree in Electrical and Electronics Engineering.
 - ✍ I wrote a master's thesis on applying machine learning methods to internal medicine.
+<<<<<<< HEAD
 - 🚀 I'm learning image processing and deep learning.
+=======
+- 🚀 I'm learning time series and image processing.
+>>>>>>> aff04531fbb734dfae911e6620d840d4ca322ffc
 
 <h2 align="center">🔓 Stack</h2>
 
