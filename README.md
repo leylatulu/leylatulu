@@ -36,7 +36,6 @@
 <a href="https://github.com/leylatulu">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leylatulu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylatulu&layout=compact&langs_count=16&theme=react"/></div></p>
-<div  align="center"> <img src="https://github.com/leylatulu/leylatulu/blob/output/github-contribution-grid-snake.svg" /></div></p>
 
 <h2 align="center">👩‍💻 Developer Tools</h2>
 
