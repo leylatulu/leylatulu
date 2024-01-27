@@ -34,6 +34,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/leylatulu">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leylatulu&theme=github-dark" alt="Evren's Github Streak Stats" /><br><br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leylatulu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylatulu&layout=compact&langs_count=16&theme=react"/></div></p>
 
