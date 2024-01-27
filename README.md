@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/github/followers/leylatulu?style=social">
 </p>
 
-<p align="center">
-<img width="1024" alt="DATA" src="https://user-images.githubusercontent.com/53316818/211224979-d2f6b634-52e8-4dfc-9817-1a16732a257e.png">
-</p>
 
 - 🔋 I am an Electrical Electronics Engineer. I have a master's degree in Electrical and Electronics Engineering.
 - ✍ I wrote a master's thesis on applying machine learning methods to internal medicine.
