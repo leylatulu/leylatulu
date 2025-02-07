@@ -13,14 +13,12 @@
 </p>
 
 
-- 🔋 I am an Electrical Electronics Engineer. I have a master's degree in Electrical and Electronics Engineering.
-- ✍ I wrote a master's thesis on applying machine learning methods to internal medicine.
 - 🚀 I'm learning image processing and deep learning.
 
 <h2 align="center">🔓 Stack</h2>
 
 - Visualization: Matplotlib, Seaborn
-- Machine Learning: TensorFlow, Keras, Scikit-learn, Scikit-Multilearn
+- Machine Learning: TensorFlow, Keras, Scikit-learn, PyTorch
 - Natural Language Processing: NLTK
 - Data Science: Pandas, Numpy
 - Development: Flask
@@ -31,17 +29,9 @@
 <br>
 <p align="center">
 <a href="https://github.com/leylatulu">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leylatulu&theme=github-dark" alt="Evren's Github Streak Stats" /><br><br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leylatulu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylatulu&layout=compact&langs_count=16&theme=react"/></div></p>
 
-<h2 align="center">👩‍💻 Developer Tools</h2>
-
-<p align="center"> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799645-5dbf1f03-2ab8-4899-a7cf-d1bfeb11080e.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799959-54a24474-b0ef-4e89-8584-0181033fbdeb.png" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800198-f2d28bc9-bd6b-465c-bd34-53f271eab436.png" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800518-6f412fad-5507-4e19-ba8b-0e2ae6625de8.png" alt="scikit_learn" width="40" height="40"/> </a></p>
 
   
 <h2 align="center">💬 Connect with me</h2>
